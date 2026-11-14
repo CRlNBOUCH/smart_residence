@@ -1,0 +1,13 @@
+ai/data/
+ai/models/
+*.csv
+*.parquet
+*.zip
+*.pcap
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+
+/docs
